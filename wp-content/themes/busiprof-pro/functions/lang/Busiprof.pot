@@ -1,0 +1,1488 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BusiProf-Pro\n"
+"POT-Creation-Date: 2015-01-16 13:02+0530\n"
+"PO-Revision-Date: 2015-01-16 13:02+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\wordpress_pro\\wp-content\\themes"
+"\\busiprof-pro\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress_pro\\wp-content\\themes"
+"\\busiprof-pro\n"
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/404.php:17
+msgid "Unfortunately, the page you tried accessing could not be retrieved. "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/404.php:20
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/aboutus.php:19
+msgid "Welcome to"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/archive.php:18
+msgid "Daily Archives: "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/archive.php:20
+msgid "Monthly Archives: "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/archive.php:22
+msgid "Yearly Archives: "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/archive.php:24
+msgid "Blog Archives: "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/archive.php:29
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/category.php:10
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-bannerstrip.php:7
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/tag.php:10
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/archive.php:54
+msgid "no title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/archive.php:61
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/author.php:50
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/blog.php:27
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index.php:38
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/search.php:30
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/single.php:29
+msgid "Leave a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/archive.php:72
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/author.php:54
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/blog.php:36
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/category.php:37
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/fullwidth.php:36
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-slider.php:51
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index.php:48
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/page.php:29
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/search.php:35
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/single.php:39
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/tag.php:37
+msgid "Read More"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/author.php:19
+msgid "Author Archives : "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/author.php:35
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/blog.php:39
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/fullwidth.php:39
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index.php:51
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/page.php:32
+msgid "Tags:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/category.php:7
+msgid "Category  Archives:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/comments.php:11
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/comments.php:15
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/widgets/busiprof-latest-widget.php:36
+msgid "Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/comments.php:18
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/comments.php:27
+msgid "Comment navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/comments.php:19
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/comments.php:28
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/comments.php:20
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/comments.php:29
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/comments.php:37
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/comments.php:37
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/comments.php:37
+msgid "to post a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/comments.php:52
+msgid "Logged in as "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/comments.php:52
+msgid " Log out?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/comments.php:54
+msgid "Submit Now"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/comments.php:56
+msgid "Leave a Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/contact.php:44
+msgid "Phone : "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/contact.php:45
+msgid "Fax : "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/contact.php:46
+msgid "Email :"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/contact.php:47
+msgid "Website : "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/contact.php:52
+msgid "Drop a line for us"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/contact.php:63
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/widgets/busiprof-widget-contact.php:38
+msgid "Please Enter Your Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/contact.php:64
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/widgets/busiprof-widget-contact.php:40
+msgid "Please Enter valid email"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/contact.php:65
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/widgets/busiprof-widget-contact.php:42
+msgid "Please Enter your contact message"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/contact.php:66
+msgid "Sorry, your nonce did not verify"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/contact.php:74
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/widgets/busiprof-widget-contact.php:47
+msgid "Thank  you!"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/contact.php:74
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/widgets/busiprof-widget-contact.php:47
+msgid "You successfully sent contact information..."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/contact.php:128
+msgid "View Larger Map"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/default-team.php:10
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/default-team.php:23
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/default-team.php:39
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/default-team.php:52
+msgid "John Doe"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/default-team.php:10
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/default-team.php:23
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/default-team.php:39
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/default-team.php:52
+msgid "Developer"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/default-team.php:11
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/default-team.php:24
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/default-team.php:40
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/default-team.php:53
+msgid ""
+"Widest laborum dolo rumes fugats untras. Ethar omnis iste natus error sit "
+"voluptatem accusanti explicabo. Nemo enim ipsam."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/default-team.php:12
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/default-team.php:25
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/default-team.php:41
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/default-team.php:54
+msgid "Neque porro quisquam est, qui dolorem ipsum am quaerat voluptatem."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/footer.php:22
+msgid "About Us"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/footer.php:23
+msgid ""
+"We are a group of passionate designers and developers who really love to "
+"create awesome wordpress themes with amazing support and cooles video "
+"documentations..."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/footer.php:26
+msgid "Twitter Updates"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/footer.php:28
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/footer.php:32
+msgid "Check out this great #themeforest Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/footer.php:28
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/footer.php:32
+msgid "http://t.co/sYStotrd"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/footer.php:29
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/footer.php:33
+msgid "2 hours ago"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/footer.php:38
+msgid "Flickr Photos"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/footer.php:48
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/widgets/busiprof-widget-contact.php:109
+msgid "Quick Contact"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/footer.php:53
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/widgets/busiprof-widget-contact.php:43
+msgid "Submit"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/footer.php:72
+msgid "All Rights Reserved by BusiProf. Designed and Developed by"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions.php:40
+msgid "Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions.php:55
+msgid "Primary Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-project.php:25
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/widgets/busiprof-latest-widget.php:34
+msgid "Recent"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-project.php:25
+msgid "Projects"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-project.php:30
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-service.php:28
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-testimonials.php:15
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-testimonials.php:64
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/service-template.php:31
+msgid ""
+"We are a group of passionate designers and developers who really love to "
+"create awesome wordpress themes &amp; support"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-project.php:54
+msgid "All"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-project.php:55
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-service.php:78
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-2-column.php:68
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-3-column.php:67
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-4-column.php:65
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/service-template.php:178
+msgid "Web Design"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-project.php:56
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/service-template.php:64
+msgid "Web Development"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-project.php:57
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-2-column.php:68
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-3-column.php:67
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-4-column.php:65
+msgid "Graphic Design"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-project.php:58
+msgid "Multimedia"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-project.php:111
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-project.php:124
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-project.php:136
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-project.php:147
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-project.php:159
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-2-column.php:67
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-3-column.php:66
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-4-column.php:64
+msgid "Business Cards"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-project.php:112
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-project.php:125
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-project.php:137
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-project.php:148
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-project.php:160
+msgid "Graphic Design & Web Design."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-service.php:23
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/service-template.php:26
+msgid "Awesome"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-service.php:23
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/service-template.php:26
+msgid "Services"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-service.php:79
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/service-template.php:66
+msgid ""
+"We are a group of passionate designers and developers who really love to "
+"create awesome wordpress themes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-service.php:96
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/theme_setup_data.php:53
+msgid "More services"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-slider.php:5
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/theme_setup_data.php:20
+msgid "Backend as a Service Plateform for Any App Developer"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-slider.php:49
+msgid "Simpler Landing"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-slider.php:50
+msgid ""
+"We are a group of passionate designers and developers who really love to "
+"create awesome wordpress themes with amazing support and cooles video "
+"documentations...."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-testimonials.php:11
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/service-template.php:78
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/theme_setup_data.php:60
+msgid "Testimonials"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-testimonials.php:48
+msgid ""
+"We are group of passionate designers and developers who really love to "
+"create awesome wordpress themes with amazing support & cooles video "
+"documentations...."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-testimonials.php:49
+msgid "Vibhor Purandare"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-testimonials.php:49
+msgid "(Theme Developer)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-testimonials.php:60
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/theme_setup_data.php:62
+msgid "Recent Blog"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/index-testimonials.php:94
+msgid "No POST TO DISPLAY..."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-2-column.php:20
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-3-column.php:20
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-4-column.php:20
+msgid "Recent Portfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-2-column.php:23
+msgid "Display Portfolio in a Responsive Two Column Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-2-column.php:72
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-3-column.php:72
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-4-column.php:70
+msgid "Prev"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-2-column.php:77
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-3-column.php:77
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-4-column.php:75
+msgid "Next"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-3-column.php:23
+msgid "Display Portfolio in a Responsive Three Column Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/portfolio-4-column.php:23
+msgid "Display Portfolio in a Responsive Four Column Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/search.php:42
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/search.php:43
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/service-template.php:81
+msgid "What our customers think about us?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/service-template.php:87
+msgid "prev"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/service-template.php:88
+msgid "next"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/service-template.php:127
+msgid ""
+"Widest laborum dolo rumes fugats untras. Ethar omnis iste natus error sit "
+"voluptatem accusantiexplicabo. Nemo enim ipsam eque porro quisquam est, qui "
+"dolorem ipsum am quaerat voluptatem"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/service-template.php:133
+msgid "Hari Maliya"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/service-template.php:133
+msgid "CEO"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/service-template.php:134
+msgid "Founder of the Themedesigner.in"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/service-template.php:152
+msgid "Other Services"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/service-template.php:152
+msgid "Related services"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/tag.php:7
+msgid "Tag  Archives:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/theme_setup_data.php:50
+msgid "Awesome Services"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/theme_setup_data.php:51
+msgid ""
+"We are a group of passionate designers and developers who really love to "
+"create awesome wordpress themes & support"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/theme_setup_data.php:61
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/theme_setup_data.php:63
+msgid "We are a group of passionate designers & developers"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/commentbox/comment-function.php:30
+msgid "Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/commentbox/comment-function.php:39
+#, php-format
+msgid "<cite class=\"author\">%s</cite>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/commentbox/comment-function.php:44
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:23
+msgid "Image Caption"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:25
+msgid "Read More Button"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:27
+msgid "Read More Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:29
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:47
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:62
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:81
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:124
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:41
+msgid "Service Icon Image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:44
+msgid "Service Icon link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:46
+msgid "Enter the service link. For example"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:48
+msgid "Service Descritpion"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:59
+msgid "Project link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:61
+msgid "Enter the project link. For example"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:63
+msgid "Project Descritpion"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:75
+msgid "Testimonial Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:77
+msgid "Author Designation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:79
+msgid "Author Designation Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:94
+msgid "Member Designation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:96
+msgid "Team Member,s Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:98
+msgid "Member Twitter Address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:100
+msgid "Member Facebook Address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:102
+msgid "Member LinkedIn Address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:108
+msgid "Upload Client image using Featured Image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:119
+msgid "Portfolio Descritpion"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:121
+msgid "Portfolio link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/meta-box/post-meta.php:123
+msgid "Enter the Portfolio link. For example"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:16
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:18
+msgid "Add New Slide"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:17
+msgid "Add New Slider"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:19
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:50
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:80
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:110
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:141
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:171
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:201
+msgid "New Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:20
+msgid "All Featured Sliders"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:21
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:52
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:82
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:112
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:143
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:173
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:203
+msgid "View Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:22
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:53
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:83
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:113
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:144
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:174
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:204
+msgid "Search Links"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:23
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:54
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:84
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:114
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:145
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:175
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:205
+msgid "No Links found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:24
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:55
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:85
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:115
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:146
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:176
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:206
+msgid "No Links found in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:47
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:49
+msgid "Add New service"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:48
+msgid "Add New Service"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:51
+msgid "All Services"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:77
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:79
+msgid "Add New project"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:78
+msgid "Add New Project"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:81
+msgid "All Project"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:107
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:108
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:109
+msgid "Add New Testimonial"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:111
+msgid "All Testimonials"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:138
+msgid "Add New Team Member"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:139
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:140
+msgid "Add New Member"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:142
+msgid "All Team Member"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:168
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:169
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:170
+msgid "Add New Client"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:172
+msgid "All Client"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:198
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:199
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:200
+msgid "Add New Portfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/post-type/custom-post-type.php:202
+msgid "All Portfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/shortcodes/shortcodes.php:33
+msgid "Heading Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/shortcodes/shortcodes.php:100
+msgid "1"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/shortcodes/shortcodes.php:101
+msgid "order"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/shortcodes/shortcodes_iframe.php:31
+msgid "Insert Shortcode"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/shortcodes/shortcodes_iframe.php:65
+msgid "Shortcode Selector"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/shortcodes/shortcodes_iframe.php:71
+msgid "Shortcodes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/shortcodes/shortcodes_iframe.php:72
+msgid "Accordion"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/shortcodes/shortcodes_iframe.php:73
+msgid "Alert"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/shortcodes/shortcodes_iframe.php:74
+msgid "Button"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/shortcodes/shortcodes_iframe.php:75
+msgid "Blockquote"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/shortcodes/shortcodes_iframe.php:76
+msgid "Heading"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/shortcodes/shortcodes_iframe.php:77
+msgid "Hr(divider)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/shortcodes/shortcodes_iframe.php:78
+msgid "Order List"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/shortcodes/shortcodes_iframe.php:79
+msgid "Unorder List"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/shortcodes/shortcodes_iframe.php:80
+msgid "Testimonial"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/shortcodes/shortcodes_iframe.php:81
+msgid "Tabs"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/shortcodes/shortcodes_iframe.php:82
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/webr_options_pannel.php:1
+msgid "Portfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/webr_options_pannel.php:1
+msgid "Home Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/webr_options_pannel.php:1
+msgid "Home Slider"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/webr_options_pannel.php:1
+msgid "Footer Custmization"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/webr_options_pannel.php:1
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Contact Details"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/webr_options_pannel.php:1
+msgid "Post Type Slugs"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/webr_options_pannel.php:1
+msgid "Layout Manger"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/webr_options_pannel.php:1
+msgid "Taxonomy Archive Portfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/webr_options_pannel.php:1
+msgid "This theme recommends the following plugin :"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/webr_options_pannel.php:1
+msgid "appointment calendar"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/webr_options_pannel.php:1
+msgid "Begin installing plugin"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/webr_options_pannel.php:1
+msgid "Home Page slider"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/webr_options_pannel.php:1
+msgid "Portfolio Heading "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/webr_options_pannel.php:1
+msgid "Contact Details "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/webr_options_pannel.php:1
+msgid "Layout manager "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/webr_options_pannel.php:1
+msgid "Post Type Slug Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/taxonomy_archive_portfolio_setting.php:30
+msgid "Taxonomy Archive : "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/taxonomy_archive_portfolio_setting.php:38
+msgid "Select the Taxonomy Archive Column"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/taxonomy_archive_portfolio_setting.php:49
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_footer_settings.php:1
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_portfolio_settings.php:50
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_postslug_settings.php:1
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:148
+msgid "Save Changes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/taxonomy_archive_portfolio_setting.php:50
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_footer_settings.php:1
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_layout_settings.php:74
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_portfolio_settings.php:51
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_postslug_settings.php:1
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:149
+msgid "Restore Defaults"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/taxonomy_archive_portfolio_setting.php:51
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_footer_settings.php:1
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_portfolio_settings.php:52
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_postslug_settings.php:1
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:150
+msgid "Options data successfully reset"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/taxonomy_archive_portfolio_setting.php:52
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_footer_settings.php:1
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_portfolio_settings.php:53
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_postslug_settings.php:1
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:151
+msgid "Options data successfully Saved"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Enter your hous number and city"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Enter your contact address details"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Contact Number"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Enter your contact number"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Fax Number"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Enter your Fax Number"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Email Address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Enter your email address details"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Website Address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Enter your Website address details"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Social Media Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Enable Social media "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Enable social media icons on footer section."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Twitter Link : "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Enter twitter Link like these type: https://twitter.com/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Facebook Link : "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Enter Facebook Link like these type: http://facebook.com/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Social News Link : "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Enter social news link like these type:  http://in.linkedin.com/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Contact google Map"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Enable Google map "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Enable Google map on contact Us page."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Google map Url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_contact_settings.php:1
+msgid "Enter your contact address google map url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_footer_settings.php:1
+msgid "Footer Customization text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_footer_settings.php:1
+msgid "Enter your Footer Customization text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Custom Static Front Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Do you want display Static Front Page: "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Yes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "front page option"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "No"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Shows Custom Static Front Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Custom Logo"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Custom Logo Image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Logo Must be in 40 X 115 px"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Logo Width"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Enter the logo width"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Logo Height"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Enter the logo height"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Custom Favicon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Fevico Icon Use .ico files or 32 X 32 px"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Home Page Image Banner"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Enable Home page banner Strip"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Enable Home banner strip on Front page."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Slider Head Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Enter the Slider Image Header Tagline"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Home Page Service Heading"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Number of services on service section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Select number of services"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Service Tag Line"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Service Tag Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Enter service tag desription"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Enable Read More Button "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Enable Read More Button on Home page."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Service Read More Button text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Enter service readmore button text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Service Read More Button Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Enter service readmore link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Home Page Project Heading"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Project Tag Line"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Enter the project tagline"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Project Tag Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Enter project tag desription"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Testimonial Block Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Testimonial Block Heading "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Enter the Testimonial Heading"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Testimonial Tagline "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Enter the Testimonial Tagline"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Blog Section Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Blog Section Heading "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Enter the Blog Section Heading"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Blog  Tagline "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_home_page.php:1
+msgid "Enter the Blog Tagline"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_layout_settings.php:35
+msgid "Disabled"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_layout_settings.php:50
+msgid "Enabled"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_layout_settings.php:68
+msgid "Slider section always top on the home page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_layout_settings.php:69
+msgid "Note:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_layout_settings.php:69
+msgid ""
+"By default all the section are enable on homepage. If you do not want to "
+"display any section just drag that section to the disabled box."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_option_sidbar.php:3
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_option_sidbar.php:6
+msgid "Documentation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_option_sidbar.php:5
+msgid ""
+"Find the detailed documentation of the theme. Click to view the "
+"Documentation "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_option_sidbar.php:8
+msgid "Support"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_option_sidbar.php:10
+msgid "For any further queries/support. Contact us Via"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_option_sidbar.php:13
+msgid "Webriti support forums"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_portfolio_settings.php:29
+msgid "Protfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_portfolio_settings.php:32
+msgid "Portfolio tag line"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_portfolio_settings.php:35
+msgid "Enter portfolio tag line"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_portfolio_settings.php:38
+msgid "Protfolio description : "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_portfolio_settings.php:41
+msgid "Enter portfolio tag description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_postslug_settings.php:1
+msgid ""
+"Insert Your Custom Slug here and Save the permalinks structure after this."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_postslug_settings.php:1
+msgid "Slider Slug"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_postslug_settings.php:1
+msgid "Enter Slug for Slider"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_postslug_settings.php:1
+msgid "Services Slug"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_postslug_settings.php:1
+msgid "Enter Slug for Services"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_postslug_settings.php:1
+msgid "Projects Slug"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_postslug_settings.php:1
+msgid "Enter Slug for Projects"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_postslug_settings.php:1
+msgid "Portfolio Slug"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_postslug_settings.php:1
+msgid "Enter Slug for Portfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_postslug_settings.php:1
+msgid "Testimonial Slug"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_postslug_settings.php:1
+msgid "Enter Slug for Testimonial"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_postslug_settings.php:1
+msgid "Team Slug"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_postslug_settings.php:1
+msgid "Enter Slug for Team"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:35
+msgid "Slider Effects"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:38
+msgid "Animation Type : "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:41
+msgid "fade"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:42
+msgid "slide"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:45
+msgid "Select the Animation Type"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:48
+msgid "Slider Direction : "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:51
+msgid "vertical"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:53
+msgid "horizontal"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:57
+msgid "Select the Slider Direction"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:60
+msgid "Animation Speed : "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:76
+msgid "Select the Animation Speed"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:79
+msgid "Slide Show Speed : "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:95
+msgid "Select the Slide Show Speed"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:102
+msgid "Client Strip"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:105
+msgid "No of Client: "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:114
+msgid "How much Client you want to display at list on client list slider"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:117
+msgid "Client Strip slide Speed : "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:128
+msgid "Select the client strip slide Speed"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:135
+msgid "Custom CSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/theme_options/pages/theme_slider_settings.php:138
+msgid "Enter Custom css code "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/widgets/busiprof-latest-widget.php:16
+msgid "Busiprof Latest Blog"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/widgets/busiprof-latest-widget.php:17
+msgid "This widget show latest post and comment or popular blog"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/widgets/busiprof-latest-widget.php:32
+msgid "Popular"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/widgets/busiprof-widget-contact.php:16
+msgid "Busiprof Quick Contact"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/widgets/busiprof-widget-contact.php:17
+msgid "Quick Contact for your site"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/widgets/busiprof-widget-contact.php:113
+msgid "Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/widgets/custom-widgets.php:7
+msgid " Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/widgets/custom-widgets.php:9
+msgid "The primary widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/widgets/custom-widgets.php:17
+msgid "Footer Widget Area"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\busiprof-pro/functions/widgets/custom-widgets.php:19
+msgid "footer widget area"
+msgstr ""

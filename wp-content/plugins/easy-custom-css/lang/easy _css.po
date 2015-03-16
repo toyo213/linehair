@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: super_css\n"
+"POT-Creation-Date: 2013-11-21 12:01+0530\n"
+"PO-Revision-Date: 2013-11-21 12:01+0530\n"
+"Last-Translator: hari maliya <hsmaliya15888@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/easy_options.php:13
+#, fuzzy
+msgid "Welcome to Easy Custom CSS"
+msgstr "fdsfsdfs"
+
+#: inc/easy_options.php:14
+msgid ""
+"Use Easy Custom CSS plugin to customize the look of your site without "
+"editing theme files. It is a easy but very useful plugin."
+msgstr ""
+
+#: inc/easy_options.php:19
+#, fuzzy
+msgid "Easy Custom CSS Options"
+msgstr "Super Custom CSS Options"
+
+#: inc/easy_options.php:20
+msgid "Help and Support"
+msgstr ""
+
+#: inc/easy_options.php:27
+msgid "Enter the CSS Code"
+msgstr ""
+
+#: inc/easy_options.php:33
+msgid "Save"
+msgstr "Save"
+
+#: inc/easy_options.php:34
+msgid "Custom css successfully Saved"
+msgstr ""
+
+#: inc/easy_options.php:41
+msgid "Help And Support"
+msgstr ""
+
+#: inc/easy_options.php:43
+msgid "Get Support"
+msgstr ""
+
+#: inc/easy_options.php:44
+msgid "If you have any question or need support then feel free to contact us "
+msgstr ""
+
+#: inc/easy_options.php:44
+msgid "via the"
+msgstr ""
+
+#: inc/easy_options.php:44
+msgid "WordPress Support Forums"
+msgstr ""
+
+#: inc/easy_options.php:45
+#, fuzzy
+msgid "Check out our Premium Themes"
+msgstr "Checkout Premium wordpress theme"
+
+#: inc/easy_options.php:46
+msgid ""
+"We create Beautifule Worpress themes backed by impeccable support. Visit our "
+"<a href='http://www.webriti.com/' >website  </a> to learn more about our "
+"themes"
+msgstr ""
+
+#: inc/easy_options.php:47
+#, fuzzy
+msgid "Checkout Our Premium Themes"
+msgstr "Checkout Premium wordpress theme"
+
+#: inc/options.php:12
+#, fuzzy
+msgid "Easy Custom css"
+msgstr "Super Custom css"
+
+#: inc/options.php:12
+#, fuzzy
+msgid "Easy custom css"
+msgstr "Super custom css"
+
+#~ msgid ""
+#~ "Super Custom CSS plugin you can put custom css code without edit your "
+#~ "theme"
+#~ msgstr ""
+#~ "Super Custom CSS plugin you can put custom css code without edit your "
+#~ "theme"
+
+#~ msgid "its very really useful for change your website layout."
+#~ msgstr "its very really useful for change your website layout."
+
+#~ msgid "This plugin recommends the following plugin:"
+#~ msgstr "This plugin recommends the following plugin:"
+
+#~ msgid "appointment Calendar"
+#~ msgstr "appointment Calendar"
+
+#~ msgid "Begin installing plugin"
+#~ msgstr "Begin installing plugin"
+
+#~ msgid "and more"
+#~ msgstr "and more"
+
+#~ msgid "Buy now"
+#~ msgstr "Buy now"
+
+#~ msgid "Custom css Code"
+#~ msgstr "Custom css Code"

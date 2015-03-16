@@ -1,0 +1,76 @@
+/* -----@Media Responsive css created by Shahid - Scientech IT -------------------------------------------- */
+
+@media (min-width:1200px) {
+	#wrapper {
+        width: 1200px;
+        margin: 0px auto;
+    }
+
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+	#wrapper {
+        width: 1000px;
+        margin: 25px auto;
+    }
+
+} 
+
+/* This Media screen css called for All Hc Pages Element---------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+@media only screen and (min-width: 960px) and (max-width: 1200px) {
+/*Blog*/
+.blog_section { max-width: 91%; } 
+#footer_widget_busipro { float: left; margin: 0 0 30px; }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+/*Blog*/
+.blog_section { max-width: 90%; } 
+/*Sidebar*/
+.sidebar_widget #searchform input.search_btn {	width: 170px; }
+.sidebar_widget #wp-calendar tfoot td, .sidebar_widget #wp-calendar tbody tr td { padding: 5px; }
+/*Footer widget*/	
+#footer_widget_busipro { float: left; margin: 0 0 30px; }
+#footer_widget_busipro #searchform input.search_btn { width: 140px; }  
+	
+}	
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+/*Blog*/
+.blog_section { max-width: 95%; padding-left: 10px; padding-right: 10px; }
+.blog_left{border:0px;}		
+.blog_left_img{display:none;}
+
+/*Sidebar*/
+.sidebar_widget { margin: 30px 15px; }
+.sidebar_widget #wp-calendar { width: 100%; }
+/*Footer widget*/	
+#footer_widget_busipro { float: left; margin: 0 0 30px; }
+#footer_widget_busipro #wp-calendar { width: 100%; }
+#footer_widget_busipro #calendar_wrap { padding-left: 0; }	
+/*About us*/
+.about_top_mn .span12 .media a{ display: block; float: none; margin-bottom: 10px; }	
+	
+} 
+
+
+@media only screen and (min-width: 200px) and (max-width: 480px) {
+/*Blog*/
+.blog_section { max-width: 93%; padding-left: 10px; padding-right: 10px; }
+.blog_left{border:0px;}		
+.blog_left_img{display:none;}
+/*Sidebar*/
+.sidebar_widget { margin: 30px 15px; }
+.sidebar_widget #wp-calendar { width: 100%; }
+/*Footer widget*/	
+#footer_widget_busipro { float: left; margin: 0 0 30px; }
+#footer_widget_busipro #wp-calendar { width: 100%; }
+#footer_widget_busipro #calendar_wrap { padding-left: 0; }	
+/*About us*/
+.about_top_mn .span12 .media a{ display: block; float: none; margin-bottom: 10px; }
+
+
+}

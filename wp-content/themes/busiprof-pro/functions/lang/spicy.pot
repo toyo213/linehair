@@ -1,0 +1,1334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: spicy\n"
+"POT-Creation-Date: 2014-12-11 14:38+0530\n"
+"PO-Revision-Date: 2014-12-11 14:38+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\wordpress_pro\\wp-content\\themes"
+"\\spicy-pro\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress_pro\\wp-content\\themes"
+"\\spicy-pro\n"
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/404.php:16
+msgid "Error 404"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/404.php:17
+msgid "Oops! Page not found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/404.php:18
+msgid "We`re sorry, but the page you are looking for doesn`t exist."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/404.php:19
+msgid "Go to Homepage"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/about-us.php:110
+msgid ""
+"Aenean dignissim ac leo et varius. Maecen as enim leo, pharetra nec "
+"cursuseu, pellentesqu eget sapien. Morbi pellen tes qu non nulla "
+"scelerisque. Pellentesque mollis erat et is Aendignissim ac leo et varius."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/archive.php:8
+msgid "Daily Archives: "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/archive.php:10
+msgid "Monthly Archives: "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/archive.php:12
+msgid "Yearly Archives: "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/archive.php:14
+msgid "Blog Archives: "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/author.php:7
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/blog-right-sidebar.php:40
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/search.php:36
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/template-tag.php:9
+msgid "Posted on "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/blog-right-sidebar.php:43
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/template-tag.php:14
+msgid "Tag by&nbsp;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/blog-right-sidebar.php:48
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/template-tag.php:21
+msgid "Category in&nbsp;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/blog-right-sidebar.php:53
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/index-blog.php:40
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/search.php:51
+msgid "Read More"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/blog-right-sidebar.php:54
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/content.php:42
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/search.php:52
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/comments.php:14
+msgid "Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/comments.php:22
+msgid "at&nbsp;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/comments.php:24
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/comments.php:28
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/comments.php:45
+msgid "Comment navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/comments.php:46
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/comments.php:57
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/comments.php:57
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/comments.php:57
+msgid "to post a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/comments.php:66
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/contact-us.php:51
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/comments.php:67
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/contact-us.php:56
+msgid "Email"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/comments.php:68
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/contact-us.php:61
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/comments.php:77
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/contact-us.php:66
+msgid "Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/comments.php:79
+msgid "Logged in as "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/comments.php:79
+msgid " Log out?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/comments.php:81
+msgid "Post Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/comments.php:84
+msgid "&nbsp;Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/contact-us.php:51
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/contact-us.php:56
+msgid "*"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/contact-us.php:53
+msgid "Please Enter Your Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/contact-us.php:58
+msgid "Please Enter Your Email"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/contact-us.php:63
+msgid "Please Enter Your Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/contact-us.php:68
+msgid "Please Enter Your Message"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/contact-us.php:70
+msgid "Send Message"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/contact-us.php:71
+msgid "Sorry, your nonce did not verify"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/contact-us.php:76
+msgid "Thank  you!"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/contact-us.php:76
+msgid "You successfully sent contact information..."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/contact-us.php:139
+msgid "Phone:&nbsp;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/contact-us.php:143
+msgid "Fax:&nbsp;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/contact-us.php:146
+msgid "Email:&nbsp;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/footer.php:15
+msgid "About Us..."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/footer.php:15
+msgid ""
+"Lorem ipsum dolor sit amet, conse ctetur adipiscing elit. Nulla vehicul "
+"feugiatblandit.\n"
+"\n"
+"Lorem ipsum dolor sit amet, consectetur a dipiscing elit. Nulla vehicula "
+"feugiat blandit Nulla facilisi. Nulla tellus nisi,"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/footer.php:24
+msgid "&copy"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/footer.php:26
+msgid ". Created by"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions.php:34
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions.php:50
+msgid "Primary Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/index-blog.php:46
+msgid "No Posts to show..."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/index-service.php:49
+msgid ""
+"Lorem ipsum dolor sit amet, consec adipiscing elit. Nulla vehicula blandit. "
+"Nulla facilisi. Nulla tellus nisi, congue id. Lorem ipsum dolor sit tetur "
+"adipiscing elit."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/index-service.php:50
+msgid "Read more"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/search.php:19
+#, php-format
+msgid "Search Results For: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/search.php:41
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/search.php:46
+msgid "Posted in "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/search.php:65
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/search.php:67
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/searchform.php:2
+msgid "Search Here"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/tag.php:7
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:18
+msgid "Post Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:37
+msgid "Page Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:39
+msgid "Page Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:60
+msgid "Portfolio / Project Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:62
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:82
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:108
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:112
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:116
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:120
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_call_out_settings.php:82
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/social_media_links.php:82
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/social_media_links.php:90
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/social_media_links.php:98
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/social_media_links.php:105
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/social_media_links.php:113
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:63
+msgid "Add Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:75
+msgid "Service Icon (Using Font Awesome icons name) like: fa-group ."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:75
+msgid "Get your fontawesome icons."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:78
+msgid "Enter Service Read More Button Text."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:80
+msgid "Service Read More Button Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:99
+msgid "Members Designation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:101
+msgid "Role Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:104
+msgid "Social Media Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:106
+msgid "Facebook Url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:110
+msgid "Google Url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:114
+msgid "LinkedIn Url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/meta-box/post-meta.php:118
+msgid "Twitter Url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:15
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:17
+msgid "Add New service"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:16
+msgid "Add New Service"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:18
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:47
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:75
+msgid "New Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:19
+msgid "All Services"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:20
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:49
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:77
+msgid "View Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:21
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:50
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:78
+msgid "Search Links"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:22
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:51
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:79
+msgid "No Links found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:23
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:52
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:80
+msgid "No Links found in Trash"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:44
+msgid "Add New Item"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:45
+msgid "Add New Project"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:46
+msgid "Add New Portfolio / project"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:48
+msgid "All Portfolio Project"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:72
+msgid "Add New Team Member"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:73
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:74
+msgid "Add New Member"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/post-type/custom-post-type.php:76
+msgid "All Team Member"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/option_pannel.php:4
+msgid "theme"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/option_pannel.php:4
+msgid "Option Panel"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/webriti_option_pannel.php:8
+msgid "spicy"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/webriti_option_pannel.php:10
+msgid "Support Desk"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/webriti_option_pannel.php:11
+msgid "Theme Documentation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/webriti_option_pannel.php:12
+msgid "View Changelog"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/webriti_option_pannel.php:22
+msgid "Home Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/webriti_option_pannel.php:23
+msgid "Quick Start"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/webriti_option_pannel.php:25
+msgid "Slider Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/webriti_option_pannel.php:26
+msgid "Service Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/webriti_option_pannel.php:27
+msgid "Project Portfolio"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/webriti_option_pannel.php:28
+msgid "Home Blog Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/webriti_option_pannel.php:29
+msgid "Footer call out area"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/webriti_option_pannel.php:33
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:121
+msgid "Typography"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/webriti_option_pannel.php:36
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/post_type_slug.php:30
+msgid "Post Type Slug"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/webriti_option_pannel.php:39
+msgid "Contact Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/webriti_option_pannel.php:40
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/contact_page_settings.php:52
+msgid "Contact Information"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/webriti_option_pannel.php:41
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/google_maps_settings.php:30
+msgid "Google Maps"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/webriti_option_pannel.php:45
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/head_titles.php:30
+msgid "Section Headings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/webriti_option_pannel.php:48
+msgid "Social Media Links"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/webriti_option_pannel.php:51
+msgid "Layout Manager"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/webriti_option_pannel.php:54
+msgid "Footer Customization"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/contact_page_settings.php:55
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_call_out_settings.php:44
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_copyright_settings.php:30
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/google_maps_settings.php:32
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/head_titles.php:33
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_blog_settings.php:55
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_layout_manager.php:34
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:56
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_project_portfolio_settings.php:54
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_service_settings.php:34
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:100
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/post_type_slug.php:32
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/social_media_links.php:64
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:123
+msgid "Options data successfully Saved"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/contact_page_settings.php:56
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_call_out_settings.php:45
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_copyright_settings.php:31
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/google_maps_settings.php:33
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/head_titles.php:34
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_blog_settings.php:56
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_layout_manager.php:35
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:57
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_project_portfolio_settings.php:55
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_service_settings.php:35
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:101
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/post_type_slug.php:33
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/social_media_links.php:65
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:124
+msgid "Options data successfully reset"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/contact_page_settings.php:71
+msgid "Contact Page Address Section Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/contact_page_settings.php:74
+msgid "Enable Contact Page Address Section:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/contact_page_settings.php:78
+msgid "Contact Address Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/contact_page_settings.php:82
+msgid "Contact Aaddress Designation One:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/contact_page_settings.php:86
+msgid "Contact Address Designation Two:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/contact_page_settings.php:90
+msgid "Contact Phone Number:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/contact_page_settings.php:94
+msgid "Contact Fax Number:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/contact_page_settings.php:98
+msgid "Contact Email:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/contact_page_settings.php:102
+msgid "Contact Form Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/contact_page_settings.php:106
+msgid "Contact Social Media Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_call_out_settings.php:42
+msgid "Footer Call Out Area"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_call_out_settings.php:56
+msgid "Enable Footer Call Out Area Section :"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_call_out_settings.php:57
+msgid "Enable footer call out area on front page."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_call_out_settings.php:61
+msgid "Footer Call Out Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_call_out_settings.php:63
+msgid "Enter the footer call out title."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_call_out_settings.php:67
+msgid "Footer Call Out Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_call_out_settings.php:69
+msgid "Enter the footer call out description."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_call_out_settings.php:73
+msgid "Footer Call Out Button Text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_call_out_settings.php:75
+msgid "Enter the footer call out button text."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_call_out_settings.php:79
+msgid "Footer Call Out Button Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_call_out_settings.php:81
+msgid "Enter the footer call out button link."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_copyright_settings.php:28
+msgid "Footer Customizations"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_copyright_settings.php:42
+msgid "footer customizations text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_copyright_settings.php:44
+msgid "Enter the footer customizations text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_copyright_settings.php:47
+msgid "Created By Webriti text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_copyright_settings.php:49
+msgid "Enter the created by webriti text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_copyright_settings.php:53
+msgid "Created By Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/footer_copyright_settings.php:55
+msgid "Enter the Call Out Button Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/google_maps_settings.php:44
+msgid "Enable Google Map in contact page :"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/google_maps_settings.php:45
+msgid "Enable Google map on contact page."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/google_maps_settings.php:48
+msgid "Google Map URL:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/google_maps_settings.php:51
+msgid "Enter google map url."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/head_titles.php:20
+msgid "Meet Our Great Team"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/head_titles.php:21
+msgid ""
+"We provide best WordPress solutions for your business. Thanks to our "
+"framework you will get more happy customers."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/head_titles.php:22
+msgid "Business World is an incredibly powerful & ultra responsive WP Theme."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/head_titles.php:23
+msgid ""
+"Take a tour on your touch sensitive environment or just resize the Browser.."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/head_titles.php:47
+msgid "About Us Page Team Heading"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/head_titles.php:49
+msgid "Enter Team Heading For ABOUT US Page."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/head_titles.php:52
+msgid "About Us Page Team Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/head_titles.php:54
+msgid "Enter Team Description For ABOUT US Page."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/head_titles.php:58
+msgid "Service section Heading on Home page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/head_titles.php:60
+msgid "Enter Service Heading for Service Section."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/head_titles.php:63
+msgid "Service section Description on Home page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/head_titles.php:65
+msgid "Enter Service Description for Service Section."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_blog_settings.php:39
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_project_portfolio_settings.php:38
+msgid "Latest Work"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_blog_settings.php:40
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_project_portfolio_settings.php:39
+msgid ""
+"Maecenas a mi nibh, eu euismod orc vivamus viverra lacus vitae tortor "
+"molestie malesuada. eu euismod orci. Vivamus viverra lacus vitae tortor "
+"molestie."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_blog_settings.php:41
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_project_portfolio_settings.php:40
+msgid "See all Works"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_blog_settings.php:53
+msgid "Blog"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_blog_settings.php:68
+msgid "Enable Home Blog Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_blog_settings.php:70
+msgid "Enable blog on front page."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_blog_settings.php:74
+msgid "Number of blog on blog section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_blog_settings.php:84
+msgid "Select number of blogs"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_blog_settings.php:88
+msgid "Blog Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_blog_settings.php:90
+msgid "Enter the blog Title."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_blog_settings.php:93
+msgid "Blog Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_blog_settings.php:95
+msgid "Enter the Blog Description."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_blog_settings.php:98
+msgid "Blog More Button Text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_blog_settings.php:100
+msgid "Enter the blog more button text."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_blog_settings.php:103
+msgid "Blog More Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_blog_settings.php:104
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_project_portfolio_settings.php:103
+msgid "Open link in a new window/tab."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_blog_settings.php:107
+msgid "Enter the blog more button link."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_blog_settings.php:112
+msgid "Select blog Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_layout_manager.php:31
+msgid "Front Page Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_layout_manager.php:50
+msgid "Disabled"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_layout_manager.php:65
+msgid "Enabled"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_layout_manager.php:83
+msgid "Slider section always top on the home page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_layout_manager.php:84
+msgid "Note:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_layout_manager.php:84
+msgid ""
+"By default all the section are enable on homepage. If you do not want to "
+"display any section just drag that section to the disabled box."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:53
+msgid "Quick Start Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:68
+msgid "Enable Front Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:69
+msgid "Enable front page ."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:73
+msgid "Theme Color Schemes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:76
+msgid "default.css"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:77
+msgid "blue.css"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:78
+msgid "golden.css"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:79
+msgid "orange.css"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:80
+msgid "light-blue.css"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:81
+msgid "light-red.css"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:82
+msgid "light-teal.css"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:83
+msgid "maroon.css"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:84
+msgid "Select color for you theme."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:87
+msgid "Custom Background Enabled"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:88
+msgid "Enable Custom Background (Add Custom Background Image)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:88
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:139
+msgid "Click Here"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:91
+msgid "Default Background "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:115
+msgid "Custom Logo"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:116
+msgid "Add custom logo from here suggested size is 250X50 px"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:126
+msgid "Logo Height"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:127
+msgid ""
+"Default Logo Height : 50px, if you want to increase than specify your value"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:132
+msgid "Logo Width"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:133
+msgid ""
+"Default Logo Width : 250px, if you want to increase than specify your value"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:138
+msgid "Text Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:139
+msgid "Enable text-based Site Title.   Setup title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:142
+msgid "Custom Favicon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:143
+msgid "Make sure you upload .icon image type which is not more then 25X25 px."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:152
+msgid "Google Tracking Code"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:154
+msgid ""
+"Paste your Google Analytics tracking code here. This will be added into "
+"themes footer. Copy only scripting code i.e no need to use script tag "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:157
+msgid "Custom css"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_page_settings.php:159
+msgid ""
+"This is a powerful feature provided here. No need to use custom css plugin, "
+"just paste your css code and see the magic."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_project_portfolio_settings.php:52
+msgid "Portfolio "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_project_portfolio_settings.php:67
+msgid "Enable Home Portfolio Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_project_portfolio_settings.php:69
+msgid "Enable portfolio on front page."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_project_portfolio_settings.php:73
+msgid "Number of Portfolio on  project/portfolio section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_project_portfolio_settings.php:83
+msgid "Select number of potfolios"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_project_portfolio_settings.php:87
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:360
+msgid "Portfolio Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_project_portfolio_settings.php:89
+msgid "Enter the Portfolio Title."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_project_portfolio_settings.php:92
+msgid "Portfolio Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_project_portfolio_settings.php:94
+msgid "Enter the Portfolio Description."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_project_portfolio_settings.php:97
+msgid "Portfolio More Button Text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_project_portfolio_settings.php:99
+msgid "Enter the Portfolio more button text."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_project_portfolio_settings.php:102
+msgid "Portfolio More Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_project_portfolio_settings.php:106
+msgid "Enter the Portfolio more button link."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_project_portfolio_settings.php:111
+msgid "Select Portfolio Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_service_settings.php:32
+msgid "Service Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_service_settings.php:47
+msgid "Enable Home Service Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_service_settings.php:49
+msgid "Enable service on front page."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_service_settings.php:53
+msgid "Services Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_service_settings.php:55
+msgid "Number of services on home service section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_service_settings.php:65
+msgid "Select number of services"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:97
+msgid "Slider"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:117
+msgid "Slider Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:119
+msgid "Slider Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:121
+msgid "Slider Image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:131
+msgid "Add Slide"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:132
+msgid "Remove Last Slide"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:137
+msgid "Enable Home Slider"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:139
+msgid "Enable slider on front page."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:142
+msgid "Animation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:145
+msgid "fade"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:146
+msgid "slide"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:148
+msgid "Select the Animation Type."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:151
+msgid "Slide direction"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:154
+msgid "vertical"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:155
+msgid "horizontal"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:157
+msgid "Select Slide direction."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:160
+msgid "Animation speed"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:175
+msgid "Select Slide Animation speed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:178
+msgid "Slideshow speed"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/home_slider_settings.php:193
+msgid "Select the Slide Show Speed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/post_type_slug.php:44
+msgid "Service Slug"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/post_type_slug.php:46
+msgid "Enter service slug."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/post_type_slug.php:49
+msgid "Portfolio/Project Slug"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/post_type_slug.php:51
+msgid "Enter portfolio slug."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/post_type_slug.php:54
+msgid "Our Team Slug"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/post_type_slug.php:56
+msgid "Enter our team slug."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/social_media_links.php:62
+msgid "Header Customizations"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/social_media_links.php:76
+msgid "Enable social media links:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/social_media_links.php:77
+msgid "Enable social media links on header section."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/social_media_links.php:80
+msgid "Twitter Profile Link:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/social_media_links.php:86
+msgid "Facebook Profile Link:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/social_media_links.php:94
+msgid "Google Plus Profile Link:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/social_media_links.php:101
+msgid "Linkedin Profile Link:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/social_media_links.php:109
+msgid "Youtube Profile Link:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:135
+msgid "Enable Custom Typography"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:136
+msgid "Enable the use of custom typography for your site."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:139
+msgid "General Typography"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:145
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:201
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:256
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:311
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:366
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:421
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:476
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:531
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:589
+msgid "px"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:189
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:244
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:299
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:354
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:409
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:464
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:519
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:574
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:632
+msgid "Normal"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:190
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:245
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:300
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:355
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:410
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:465
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:520
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:575
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:633
+msgid "Italic"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:195
+msgid "Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:250
+msgid "Post And Page Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:305
+msgid "Service Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:415
+msgid "Widget Heading Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:470
+msgid "Call out area Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:525
+msgid "Call Out Area Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/theme_options/pages/typography.php:583
+msgid "Call Out Area Button"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/widget/custom-sidebar.php:6
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/widget/custom-sidebar.php:8
+msgid "The right sidebar widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/widget/custom-sidebar.php:16
+msgid "Footer Widget Area"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/widget/custom-sidebar.php:18
+msgid "footer widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/widget/custom-widget.php:16
+msgid "spicy custom widget"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/widget/custom-widget.php:17
+msgid "The show custom post name "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/widget/custom-widget.php:47
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/widget/webriti-latest-widget.php:47
+msgid "/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/widget/custom-widget.php:69
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/widget/webriti-latest-widget.php:69
+msgid "Recent Post"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/widget/custom-widget.php:74
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/widget/webriti-latest-widget.php:74
+msgid "Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/widget/custom-widget.php:78
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/widget/webriti-latest-widget.php:78
+msgid "Number of pages to show:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/widget/webriti-latest-widget.php:16
+msgid "Webriti Sidebar Recent Post"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_pro\wp-content\themes\spicy-pro/functions/widget/webriti-latest-widget.php:17
+msgid "The Recent post display on your site "
+msgstr ""
