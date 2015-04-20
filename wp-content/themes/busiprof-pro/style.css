@@ -267,6 +267,9 @@ input, select, textarea {
     padding-bottom: 10px;
 }
 
+
+
+
 /*---------ここから自分のCSSオンラインショップのボタンのリンク---------------*/
 
 .services_cols_mn a:hover{
@@ -303,6 +306,7 @@ color: #454545;
     text-align: center;
     width: 100%;
 }
+
 
 .services_cols_mn p {
     color: #8B9194;
@@ -401,22 +405,30 @@ color: #454545;
     position: relative;
 }
 
+.rec_cols_mn h3 a:link, .rec_cols_mn h3 a:visited { color:#4493d8!important; }
+
 .rec_cols_mn span {
     float: left;
     margin-top: 0px;
     padding-bottom: 7px;
     text-align: center;
-    width: 100%;
+    width: 100%;    
 }
 
 .rec_cols_mn span {
     text-align: center;
 }
 
+.rec_cols_mn span a{
+    color: #0000ff;
+}
+
+
 .rec_cols_mn a img, .rec_cols_mn img {
     -webkit-border-radius: 4px 4px 0 0;
     -moz-border-radius: 4px 4px 0 0;
     border-radius: 4px 4px 0 0;
+
 }
 /* --------Image hover effect----------- */
 .hover_thumb {

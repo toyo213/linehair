@@ -62,6 +62,7 @@
 			<li><p><a href="http://line-hair.net/who-we-are/">ラインヘアーとは</a></p></li>
 			<li><p><a href="http://line-hair.net/about-us/open-position/">採用情報</a></p></li>
 			<li><p><a href="http://line-hair.net/privacy-policy/">プライバシーポリシー</a></p></li>
+			<li><p><a href="http://line-hair.net/ring/">系列店</a></p></li>
 			</ul>
 			</div>
 
