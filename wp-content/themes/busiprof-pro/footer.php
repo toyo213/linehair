@@ -77,7 +77,7 @@
 
 
 <div class="span3"> 
-<div class="fb-like-box" data-href="https://www.facebook.com/linehairjapan" data-colorscheme="dark" data-show-faces="true" data-header="true" data-stream="false" data-show-border="false"></div>
+<div class="fb-page" data-href="https://www.facebook.com/linehairjapan" data-width="280" data-height="300" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/linehairjapan"><a href="https://www.facebook.com/linehairjapan">Line Hair ラインヘアー</a></blockquote></div></div>
 </div>
 
 
