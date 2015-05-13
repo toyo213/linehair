@@ -2,9 +2,11 @@
 /**
  * dynwid_admin_edit.php - Options settings
  *
- * @version $Id: dynwid_admin_edit.php 939272 2014-06-26 19:44:38Z qurl $
+ * @version $Id: dynwid_admin_edit.php 1095126 2015-02-20 12:59:35Z qurl $
  * @copyright 2011 Jacco Drabbe
  */
+ 
+	defined('ABSPATH') or die("No script kiddies please!");
 
 	// Plugins support
 	DW_BP::detect();

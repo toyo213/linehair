@@ -2,10 +2,12 @@
 /**
  * dynwid_admin_overview.php - Overview page
  *
- * @version $Id: dynwid_admin_overview.php 689417 2013-03-31 09:16:14Z qurl $
+ * @version $Id: dynwid_admin_overview.php 1095126 2015-02-20 12:59:35Z qurl $
  * @copyright 2011 Jacco Drabbe
  */
 
+	defined('ABSPATH') or die("No script kiddies please!");
+ 
 	if ( isset($_GET['action']) ) {
 		switch ( $_GET['action'] ) {
 			case 'dynwid_set_method':
