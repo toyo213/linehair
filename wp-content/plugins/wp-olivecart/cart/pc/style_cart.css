@@ -1,0 +1,309 @@
+@charset "utf-8";
+
+/* カートの中身を見る
+---------------------------------------------------- */
+#maincart{
+	padding:0;
+	margin:  0;
+	text-align: center;
+}
+
+table#minicart{
+	width: 100%;
+	margin: 0px 0 15px 0;
+	border-spacing:0;
+	border-collapse:collapse;
+	border-style:solid;
+	border-color:#333;
+	border-width:1px 0 1px 1px;
+	padding:0px;
+}
+table#minicart tr td{	
+	padding:10px 5px;
+	border-style:solid;
+	border-color:#333;
+	border-width:0 1px 1px 0;
+	font-weight:normal;
+	letter-spacing: 0.1em;
+}
+table#minicart th{
+	padding:8px;
+	border-style:solid;
+	border-color:#333;
+	border-width:0 1px 1px 0;
+	background-color: #E6E6E6;
+	text-align: center;
+}
+
+table#minicart .item{
+	text-align: left;
+}
+table#minicart .count{
+	width: 40px;
+	text-align: center;
+}
+
+table#minicart .total{
+	padding: 10px 0;
+	text-align: center;
+}
+table#minicart .empty{
+	padding: 10px 0;
+	text-align: center;
+	}
+
+
+
+/* テーブル部分　共通
+---------------------------------------------------- */
+#cart{
+	width: 97%;
+	margin: 10px 0 10px 10px;
+	border-spacing: 0;
+	border-collapse: collapse;
+	border-style:solid;
+	border-color:#333;
+	border-width:1px 0 1px 1px;
+	clear: both;
+	padding:0px;
+}
+#cart tr td{	
+	margin:0; 
+	padding:10px 25px 10px 10px;
+	border-style:solid;
+	border-color:#333;
+	border-width:0 1px 1px 1px;
+	letter-spacing: 0.1em;
+}
+
+
+#cart th{
+	padding:5px 10px;
+	border-style:solid;
+	border-color:#333;
+	border-width: 1px;
+	background-color: #E6E6E6;
+	color: #333;
+	text-align: center;
+	}
+	
+/* カート注文部分
+---------------------------------------------------- */
+#cart .th01{
+	width: 80px;
+}
+#cart .th02{
+	width: 50px;
+}
+
+#cart .item01{
+	width: 80px;
+	text-align: right;
+}
+#cart .item02{
+	width: 50px;
+	text-align: center;
+	}
+#cart input{
+	margin: 5px;
+	padding: 5px;
+}
+#cart .inputitem01{
+	width: 30px;
+	text-align: center;
+}
+
+/*お客様情報の入力
+---------------------------------------------------- */
+#cart .th03{
+	width: 120px;
+	text-align: left;
+	}
+
+#cart .inputitem02{
+	width:95%;
+	}
+
+#cart .inputitem03{
+	width: 120px;
+}
+#cart .inputitem04{
+	width: 100%;
+	height: 50px;
+}
+
+table#cart .red{
+	color: #FF0000;
+}
+
+label{  
+	vertical-align: middle;
+	margin: 0;
+	padding: 5px 5px 0 3px;
+}
+/* 支払い方法、オプションの選択
+---------------------------------------------------- */
+input .radio {
+	border-style: none;
+	color: #000000;
+	background: transparent;
+	vertical-align: middle;
+}
+
+.payment{
+	padding: 10px 0px;
+	margin: 0 5px 20px 10px;
+}
+
+.op{
+	padding: 10px ;
+	margin: 0 20px;
+}
+.inputitem05{
+	width: 100%;
+	height: 100px;
+}
+.labelname{
+	margin: 0;
+	padding:0;
+	font-weight: bold;
+	color: #333;
+}
+
+/* 送信ボタン
+---------------------------------------------------- */
+#submit {
+	margin: 20px 0;
+	padding: 0;
+	clear: both;
+	text-align: center;
+	}
+#submit input{
+	margin: 0 10px 0 0;
+	padding: 10px;
+	}
+	
+#submit_entry{
+	margin: 20px 0;
+	padding: 0;
+	text-align: left;
+	}
+#submit_entry input{
+	margin: 0 10px 0 0;
+	padding: 10px;
+	}
+/* 新規会員登録
+---------------------------------------------------- */
+#newentry {
+	margin: 10px 0px;
+	padding: 0;
+}
+#newentry input{
+	margin: 0 10px 0 0;
+	padding: 10px;
+}
+
+
+
+/* ログイン
+---------------------------------------------------- */
+fieldset{
+	margin: 0;
+	padding: 10px 20px 0px 10px;
+	border: none;
+}
+
+.labelform01 {
+	display: block;
+	margin: 30px 0 10px 0px;
+	padding:0;
+	float: left;
+	width: 110px;
+	}
+
+.editbox01 {
+	display: block;
+	float: left;
+	padding: 0;
+	margin: 30px 0 10px 0;
+	width: 300px;
+}
+
+#useremail {
+ width: 250px;
+}
+#password {
+  width: 250px;
+}
+/*ログイン
+---------------------------------------------------- */
+#login{
+	margin: 10px 0;
+	padding: 0;
+}
+#login input{
+	padding: 10px;
+	}
+/*エラー表示、メッセージ
+---------------------------------------------------- */
+#error{
+	margin: 0 30px 20px 30px;
+	padding: 0;
+	border: 1px solid #FF0000;
+	background-color: #FFD2D2;
+}
+
+#error p{
+	margin: 0;
+	padding: 10px 20px;
+}
+
+#message{
+	margin: 0 30px 20px 30px;
+	padding: 0;
+	border: 1px solid #FF9933;
+	background-color: #FFF2E6;
+	}
+#message p{
+	margin: 0;
+	padding: 10px 20px;
+}
+/*最終確認画面
+---------------------------------------------------- */
+.labelform02 {
+	clear: left;
+	display: block;
+	margin: 5px 0 20px 0;
+	padding:0;
+	float: left;
+	width: 150px;
+}
+
+.editbox02{
+	display: block;
+	float: left;
+	padding: 5px 0 20px 0;
+	margin: 0;
+}
+.oc_step7{
+	clear: both;
+}
+
+/*カートオプション
+---------------------------------------------------- */
+.cart_count{
+	margin: 10px 0;
+	padding: 0;	
+	
+}
+.cart_option1{
+	margin: 10px 0;
+	padding: 0;	
+	
+}
+
+.cart_option2{
+	margin: 10px 0;
+	padding: 0;	
+	
+}

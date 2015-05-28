@@ -1,0 +1,119 @@
+@charset "utf-8";
+
+/* image */
+
+a img{
+	border: none;
+	color: #FFFFFF;
+	background: transparent;
+}
+img {
+	max-width: 100%;
+	height: auto;
+	vertical-align: top;
+	margin:0px;
+	}
+ /* body */
+body {	
+	background: #FFF;
+		} 
+ /* Header */
+h1#title{
+	margin:0px;
+	padding: 15px 0;
+		}
+
+#cartin{
+	margin:8px 0 3px;
+	padding: 0;}
+
+
+ /* NAVI */ 
+#main-nav {
+	margin: 0;
+	padding: 0 0 2px 0;
+	background-color:#639ED1;
+	}
+
+.menulist{
+	margin: 40px 10px 10px;
+	padding: 0;	
+}
+
+/* step1 */ 
+.mobileUL,
+.mobileDL {
+	margin: 9px 9px 16px;
+	padding: 0;	
+	border-style:solid;
+	border-color:#333;
+	border-width:1px 1px 0 1px;
+	background-color: #fff;
+	}
+
+
+
+.mobileUL li,
+.mobileDL dd {
+	list-style-type: none;
+	border-bottom: solid 1px #333;
+	line-height: 43px;
+}
+
+.name {
+	background-color: #CCC;
+
+}
+.total {
+	line-height: 43px;
+	background-color: #b0daff;
+	font-weight: bold;
+	}
+.mobileUL li {
+	padding: 0px 5px ;
+}
+
+
+.quantity{
+	margin: 0;
+	padding: 0 0 10px 0;	
+}
+
+/* message */  
+.error{
+	
+	
+}
+/*メインコンテンツ部分・共通
+---------------------------------------------------- */
+
+div.message{
+	margin: 10px 20px;
+	padding: 0;
+	border: 1px solid #FF9933;
+	background-color: #FFF2E6;
+}
+div.message p{
+	margin: 10px 20px;
+	padding: 0;
+	color: #333;
+}
+
+div.error{
+	margin: 10px;
+	padding: 0;
+	border: 1px solid #FF0000;
+	background-color: #FFD2D2;
+}
+
+
+
+div.error p{
+	margin: 10px 20px;
+	padding: 0;
+	color: #333;
+} 
+.red{
+	color: #FF0000;	
+	
+}

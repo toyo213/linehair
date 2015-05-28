@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-04-22 19:04:55+0000\n"
+"PO-Revision-Date: 2015-04-30 06:14:18+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -138,7 +138,7 @@ msgstr "カスタマイザー"
 msgid "A term with the name already exists in this taxonomy."
 msgstr "このタクソノミー内にすでに同じ名前の項目があります。"
 
-#: wp-includes/taxonomy.php:4173
+#: wp-includes/taxonomy.php:4169
 msgid "Could not split shared term."
 msgstr "共有タームを分割することはできません。"
 
@@ -733,7 +733,7 @@ msgstr "(ラベルなし)"
 
 #. translators: %s: taxonomy label, %l: list of terms formatted as per
 #. $term_template
-#: wp-includes/taxonomy.php:4483
+#: wp-includes/taxonomy.php:4479
 msgid "%s: %l."
 msgstr "%s: %l。"
 
@@ -4661,7 +4661,7 @@ msgstr "非承認"
 msgid "Duplicate comment detected; it looks as though you&#8217;ve already said that!"
 msgstr "重複しているコメントが見つかりました。同じコメントをすでに投稿しているようです。"
 
-#: wp-includes/comment.php:2368
+#: wp-includes/comment.php:2375
 msgid "Could not update comment status"
 msgstr "コメントの状態を更新できませんでした"
 
@@ -4914,11 +4914,11 @@ msgstr "%1$s の使用はバージョン %2$s から<strong>非推奨</strong>�
 
 #: wp-includes/functions.php:3508
 msgid "%1$s was called with an argument that is <strong>deprecated</strong> since version %2$s! %3$s"
-msgstr "%1$s の使用はバージョン %2$s から<strong>非推奨</strong>になりました ! %3$s"
+msgstr "%1$s がバージョン %2$s から<strong>非推奨</strong>になった引数付きで呼び出されました。%3$s"
 
 #: wp-includes/functions.php:3510
 msgid "%1$s was called with an argument that is <strong>deprecated</strong> since version %2$s with no alternative available."
-msgstr "%1$s の使用はバージョン %2$s から<strong>非推奨</strong>になりました。代替は用意されていません。"
+msgstr "%1$s がバージョン %2$s から<strong>非推奨</strong>になった引数付きで呼び出されました。代替は用意されていません。"
 
 #: wp-includes/functions.php:4036
 msgid "Select a city"
@@ -6079,7 +6079,7 @@ msgid "Invalid Taxonomy"
 msgstr "不正なタクソノミーです。"
 
 #: wp-includes/taxonomy.php:1318 wp-includes/taxonomy.php:3382
-#: wp-includes/taxonomy.php:4351
+#: wp-includes/taxonomy.php:4347
 msgid "Empty Term"
 msgstr "キーワードなし"
 
@@ -6102,7 +6102,7 @@ msgstr "キーワードをデータベースに挿入できませんでした"
 msgid "The slug &#8220;%s&#8221; is already in use by another term"
 msgstr "このスラッグ &#8220;%s&#8221; はすでに他のキーワードで使用されています"
 
-#: wp-includes/taxonomy.php:4554
+#: wp-includes/taxonomy.php:4550
 msgid "Invalid object ID"
 msgstr "無効なオブジェクト ID"
 
@@ -6138,7 +6138,7 @@ msgstr "もう一度ログインしてください。"
 msgid "Sidebar %d"
 msgstr "サイドバー %d"
 
-#: wp-includes/wp-db.php:2949
+#: wp-includes/wp-db.php:2991
 msgid "<strong>ERROR</strong>: WordPress %1$s requires MySQL %2$s or higher"
 msgstr "<strong>エラー</strong>: WordPress %1$s には MySQL %2$s 以上が必要です。"
 
